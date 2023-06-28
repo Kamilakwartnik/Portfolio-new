@@ -9,6 +9,15 @@ Committed employee, who wants to develop in the field of manual testing. I have 
 * [Test plan](https://drive.google.com/file/d/1i3xgzdDa9EXMChyGj7724HvDvVDaqu4P/view?usp=sharing)
 * [Test report](https://drive.google.com/file/d/1Z6ISHtN4nFUg_jjmYn43yGmMkhDrg4UQ/view?usp=sharing)
 * [Bug reports]
+# Technical skills:
+- Development of test plans
+- Creation of test scenarios
+- Formulating test cases
+- Reporting and fault management in Jira
+- Knowledge at ISTQB level
+- Basic knowledge of SQL (MySQL)
+- As part of my current job, I make improvement proposals for software tools I use, including but not limited to SIDAS EZD and Lotus
+- Proficient in Excel
 # Tools used in testing:
 * [JIRA](https://www.atlassian.com/software/jira)
 * [TestLink](https://testlink.org/)
@@ -17,16 +26,6 @@ Committed employee, who wants to develop in the field of manual testing. I have 
 * [Slack](https://slack.com)
 * [SoapUl](https://www.soapui.org/)
 * [Google tools](https://docs.google.com/)
-# Technical skills:
-- Creation of test scenarios
-- Development of test plans
-- Formulating test cases
-- Reporting and fault management in Jira
-- Knowledge at ISTQB level
-- Basic knowledge of SQL (MySQL)
-- As part of my current job, I make improvement proposals for
-software tools I use, including but not limited to SIDAS and Lotus
-- Proficient in Excel
 # Technical Books read:
 * [ISTQB Certified Tester SJSI](https://sjsi.org/ist-qb/do-pobrania/)
 * [ABC Testowania Oprogramowania Waldemar Szafraniec](https://www.wyszkolewas.com.pl/abc-testowania-ebook/)
