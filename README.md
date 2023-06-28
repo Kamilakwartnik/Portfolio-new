@@ -5,6 +5,10 @@ Committed employee, who wants to develop in the field of manual testing. I have 
 * [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - Udemy (in progress)](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 * [Manual tester - 2 month theoretical and practical course - Coders Lab](https://coderslab.pl/pl/tester-manualny?utm_source=google&utm_medium=cpc&utm_campaign=TXT_BRAND_PRODUKTY&utm_content=OD_PODSTAW&utm_term=coders%20lab%20tester&utm_dvc=c_&utm_match=p&utm_pos=&utm_net=g&utm_plc=&id=124128705300&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeYRerH06Nxgu8L5JISlkXKU1j2padopUviV4YmlR0BCkCjzNuQ3LAaAoAgEALw_wcB&utm_adgroup=TEM&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeYRerH06Nxgu8L5JISlkXKU1j2padopUviV4YmlR0BCkCjzNuQ3LAaAoAgEALw_wcB)
 * [Programming Girl! - Basics of HTML, CSS and JavaScript - Course Zone](https://strefakursow.pl/kursy/programowanie/programuj_dziewczyno.html)
+# Projects:
+* [Test plan](https://drive.google.com/file/d/1i3xgzdDa9EXMChyGj7724HvDvVDaqu4P/view?usp=sharing)
+* [Test report](https://drive.google.com/file/d/1Z6ISHtN4nFUg_jjmYn43yGmMkhDrg4UQ/view?usp=sharing)
+* [Bug reports]
 # Tools used in testing:
 * [JIRA](https://www.atlassian.com/software/jira)
 * [TestLink](https://testlink.org/)
