@@ -8,7 +8,7 @@ I am looking for a job in the field of manual testing. As an employee, I am char
 # Projects:
 * [Test plan](https://drive.google.com/file/d/1i3xgzdDa9EXMChyGj7724HvDvVDaqu4P/view?usp=sharing)
 * [Test report](https://drive.google.com/file/d/1Z6ISHtN4nFUg_jjmYn43yGmMkhDrg4UQ/view?usp=sharing)
-* [Bug reports](https://docs.google.com/document/d/1zH0J0kS2mtL8IclahdR2DagmYL_wuyIY4yjlKEEAlxI/edit?usp=sharing)
+* [Bug reports](https://drive.google.com/file/d/1DmLgjtFh93Ai34RxOHZvKEZSFcblJ2FN/view?usp=sharing)
 * [Bug reports summary](https://drive.google.com/file/d/16FYRkSbjoy2gxlz3p8cTSsF3mQwSxi3-/view?usp=sharing)
 # Technical skills:
 - Development of test plans
